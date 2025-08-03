@@ -10,8 +10,6 @@ This web application showcases my skills in frontend development and my ability 
 
 - HTML5
 - CSS3
-- JavaScript (if applicable)
-- Responsive Design Principles
 
 ## Key Features
 
@@ -54,7 +52,7 @@ To push your changes to the repository:
 
 3. Commit your changes
    ```bash
-   git commit -m "Initial commit of my first hackathon project"
+   git commit -m "my first hackathon project"
    ```
 
 4. Add the remote origin (if not already done)
@@ -90,10 +88,10 @@ Participating in the PLP Africa hackathon has been an incredible learning experi
 ## Author
 
 **Harrison Mwai Gitonga**
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
+- Email: harrisonmwai24@gmail.com
+- GitHub: https://github.com/HarryVerse
 
 ## Acknowledgments
 
 Special thanks to PLP Africa for organizing this amazing hackathon event and providing a platform for developers like myself to showcase our skills and learn from industry professionals.
+
