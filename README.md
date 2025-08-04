@@ -36,35 +36,6 @@ To view this project locally:
 
 Alternatively, you can simply double-click the `index.html` file to open it in your default browser.
 
-## Deployment
-
-To push your changes to the repository:
-
-1. Initialize git (if not already done)
-   ```bash
-   git init
-   ```
-
-2. Add all files to git
-   ```bash
-   git add .
-   ```
-
-3. Commit your changes
-   ```bash
-   git commit -m "my first hackathon project"
-   ```
-
-4. Add the remote origin (if not already done)
-   ```bash
-   git remote add origin https://github.com/HarryVerse/1st-Hackathon-Website..git
-   ```
-
-5. Push to the repository
-   ```bash
-   git push -u origin main
-   ```
-
 ## Project Structure
 
 ```
@@ -94,4 +65,5 @@ Participating in the PLP Africa hackathon has been an incredible learning experi
 ## Acknowledgments
 
 Special thanks to PLP Africa for organizing this amazing hackathon event and providing a platform for developers like myself to showcase our skills and learn from industry professionals.
+
 
